@@ -1,2 +1,3 @@
 #!/bin/bash
 ehco "ALX School is so cool!"
+echo "ALX School"
